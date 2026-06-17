@@ -17,15 +17,15 @@ This project analyzes sales performance, profitability, customer behavior and re
 
 ### Executive Dashboard
 
-![Executive Dashboard](executive_dashboard.png)
+![Executive Dashboard]https://drive.google.com/file/d/1ugxLegRHe-eGeODM8xPwSP3J-bQI9IF0/view?usp=drivesdk
 
 ### Customer Analytics
 
-![Customer Analytics](customer_analytics.png)
+https://drive.google.com/file/d/1ugxLegRHe-eGeODM8xPwSP3J-bQI9IF0/view?usp=drivesdk
 
 ### Profitability & Returns Analytics
 
-![Profitability](profitability_returns.png)
+https://drive.google.com/file/d/1kx_XkCuid7VH-CwimyaFXswyaZK40Vqn/view?usp=drivesdk
 
 ## Key Insights
 
